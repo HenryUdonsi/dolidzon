@@ -1,0 +1,30 @@
+.whatwedo-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    width: 65%;
+    padding: 10px;
+    margin-bottom: 2vw;
+}
+
+.whatwedo-img {
+    height: 35vh;
+}
+
+.content {
+    width: 400px;
+}
+
+.sub-heading, h2 {
+    font-weight: 600;
+}
+
+.whatwedo-title {
+    text-align: center;
+    margin-bottom: 4vw;
+}
+
+.whatwedo-container {
+    margin-bottom: 6vw;
+}
