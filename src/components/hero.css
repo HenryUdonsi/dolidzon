@@ -1,0 +1,29 @@
+.Hero {
+    padding-top: 2vw;
+    margin-bottom: 6vw;
+
+}
+
+.Hero-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50vh;
+}
+
+.Hero-heading {
+    font-weight: 600;
+    font-size: 3vw;
+    width: 700px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    line-height: 40px;
+}
+
+.Hero-content p {
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
