@@ -1,0 +1,69 @@
+.title {
+    display: flex;
+    margin: auto;
+    width: 18%;
+}
+
+.title-img {
+    width: 2.5vw;
+}
+
+#contact-para {
+    margin: auto;
+    text-align: center;
+    width: 65vw;
+}
+
+p span {
+    color: #6C63FF;
+    font-weight: 600;
+}
+
+.label {
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.btn-btn {
+    background: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ececec;
+}
+
+.btn-btn input {
+    padding: 10px;
+    border: 1px solid #ececec;
+    border-radius: 3px;
+    color: #333745;
+}
+
+#platforms, #review {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ececec;
+    color: #333745;
+    width: 75%;
+    font-family: 'inter', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    line-height: 1.6vw;
+    font-size: 1.1vw;
+}
+
+#platforms:hover, #review:hover {
+    border: 1px solid #707070;
+}
+
+#review {
+    width: 73%;
+}
+
+
+
+
+.btn-btn input:active {
+    background: #6C63FF;
+    color: #ffffff;
+}

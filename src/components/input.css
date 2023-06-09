@@ -1,0 +1,25 @@
+.wrapper {
+    width: 100%;
+}
+
+.wrapper .label {
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.wrapper input {
+    appearance: none;
+    outline: none;
+    border: none;
+    border: 1px solid #ececec;
+    border-radius: 5px;
+    /* width: auto; */
+    max-width: 100%;
+    display: block;
+    padding: 8px 15px;
+}
+
+.wrapper input:hover {
+    border: 1px solid #707070;
+}
