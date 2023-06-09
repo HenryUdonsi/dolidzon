@@ -1,0 +1,88 @@
+footer {
+    background: #333745;
+    color: #9A9EA6;
+
+}
+
+.searchBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 32vw;
+    height: 40px;
+    background: #F0F1F2;
+    padding: 8px 10px;
+    border-radius: 8px;
+    margin: auto;
+}
+
+.name-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 15vw;
+}
+
+.newsletter {
+    border-bottom: 1px dotted #FFFFFF;
+    padding-top: 0.5vw;
+    padding-bottom: 2.5vw;
+}
+
+.newsletter h3 {
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.newsletter p {
+    width: 40vw;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 2vw;
+}
+
+#email {
+    border: none;
+    background: #F0F1F2;
+    color: #9A9EA6;
+}
+
+
+.social p {
+    text-align: center;
+}
+
+.logo-blk {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10vw;
+
+}
+
+.social-wrapper {
+    display: flex;
+    margin: auto;
+    width: 14%;
+    margin-bottom: 4vw;
+}
+
+.social-links {
+    margin-left: 15px;
+}
+
+.social-links img {
+    width: 3vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.social {
+    margin-top: 2vw;
+}
+
+.social span {
+    text-align: center;
+    font-size: 0.5vw;
+}
