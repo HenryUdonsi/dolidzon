@@ -1,7 +1,7 @@
 import Hero from "./components/hero";
 import Whatwedo from "./components/whatwedo";
 import Footer from "./components/footer";
-import './contact'
+import Contact from "./contact";
 import './home.css';
 
 const Home = () => {
@@ -21,7 +21,7 @@ const Home = () => {
             any digital agency. Choose a partner that is dedicated to your success. Contact us today 
             to learn more about our services and how we can help you grow your business.
           </p>
-          <a className='btn' href='/contact'>Book a consultation</a>
+          <a className='btn' href={Contact}>Book a consultation</a>
         </div>
         <Footer />
       </>
