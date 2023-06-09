@@ -11,3 +11,8 @@ https://www.behance.net/gallery/172677953/Marketing-Website-Landing-Page/modules
 You can also view the figma design by clicking
 
 https://www.figma.com/file/37ev9bw626S6zOaAOMEHyo/landingPage?type=design&node-id=110%3A361&t=eGAfqudOGo7SuyEA-1
+
+#### Live Deploy:
+The website is live at:
+
+https://dolidzon.netlify.app/
