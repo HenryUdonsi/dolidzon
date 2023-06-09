@@ -15,7 +15,7 @@ const Nav = () => {
                         <Link to="/contact" className='link'>Contact</Link>
                     </li>
                     <li>
-                        <a className='Nav-links btn' href='./contact'>Have a project?</a>
+                        <a className='Nav-links btn' href='/contact'>Have a project?</a>
                     </li>
                 </ul>
             </nav>
